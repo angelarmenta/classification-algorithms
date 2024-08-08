@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Cargar los datos
-file_path = '/Users/angelarmenta/Dropbox/educar-ia/Clasificacion/Student_performance_data _.csv'
+file_path = 'RUTA DEL DATASET'
 data = pd.read_csv(file_path)
 
 # Mostrar la información general del dataset
